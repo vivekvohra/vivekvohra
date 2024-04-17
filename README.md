@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/vivek-vohra-11316a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekvohra0002" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vvk_1102" target="blank"><img align="center" src="https://github.com/LordLava/codeforces-darktheme/raw/master/imgs/logo.png" alt="vivekvohra0000" height="30" width="200" /></a>
 <a href="https://leetcode.com/vivekvohra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekvohra00001" height="30" width="40" /></a>
-
+<a href="https://dev.to/vivekvohra" target="blank"><img align="center" src="![qqq](https://github.com/vivekvohra/vivekvohra/assets/112391833/6c416599-c65a-49d7-a02f-9024aba1ea22)" alt="vivekvohra00001" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekvohra&show_icons=true&locale=en&layout=compact" alt="vivekvohra" /></p>
