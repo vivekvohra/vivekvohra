@@ -14,7 +14,6 @@
 <a href="https://codeforces.com/profile/vvk_1102" target="blank"><img align="center" src="https://github.com/LordLava/codeforces-darktheme/raw/master/imgs/logo.png" alt="vivekvohra0000" height="30" width="200" /></a>
 <a href="https://leetcode.com/vivekvohra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekvohra00001" height="30" width="40" /></a>
 <a href="https://dev.to/vivekvohra" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="vivekvohra00001" height="30" width="40" /></a>
-<a href="https://vivekvohra.notion.site/Computer-Science-d75a6b2a070740bda44d66e6721a5905" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png&color=000000" alt="vivekvohra00001" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekvohra&show_icons=true&locale=en&layout=compact" alt="vivekvohra" /></p>
