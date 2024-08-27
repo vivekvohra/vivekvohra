@@ -2,9 +2,10 @@
 <h3 align="center">A Software Enthusiast </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekvohra&label=Profile%20views&color=0e75b6&style=flat" alt="vivekvohra" /> </p>
 
-- 🌱 I’m currently learning data structures and algorithm
+- Hi! I am Vivek Vohra. I am Interested in Competitive Programming and Data Structure. 
 
-- learnt basics in **c,c++,python and arm assembly**
+- Programming languages **c/c++,python,SQL,sqlite3,matlab**
+- Technical Skills **HTML,CSS,FLASK,javascript**
   
 - 📫 You can reach me by email: **vivekvohra1102@gmail.com**
 
